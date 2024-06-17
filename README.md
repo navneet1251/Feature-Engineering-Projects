@@ -1,4 +1,4 @@
-# Feature-Engineering-Projects
+# Feature-Engineering-&-EDA-Projects
 I have performed all the techniques of feature engineering and feature transformation by taking different datasets. 
 
 # Life cycle of Data Science Projects:
